@@ -1,2 +1,3 @@
 # check_my_password
-a simple python script used to verify if your password is secure
+## A very simple python script that makes a call to https://haveibeenpwned.com/ API and check if your password has been pwned.
+## All the data sent is encrypted and the controll is made locally.
